@@ -50,8 +50,8 @@ Connect Me
 
 ## 📬 Let's Connect!
 
-💌 **Email:** [yourmail@gmail.com](@ajilaries20@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/ajil-saji-51270a31a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )  
+💌 **Email:** @ajilaries20@gmail.com
+💼 **LinkedIn:** https://www.linkedin.com/in/ajil-saji-51270a31a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
  
 
 
