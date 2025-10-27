@@ -1,4 +1,4 @@
-👋 Hi, I'm Ajil  
+👋 Hi, I'm Ajil  Saji
 🌍 Kerala, India  
 🎓 BCA Final Year Student | 💻 Full-Stack Developer  
 📱 Exploring Flutter, MERN, and all things creative
