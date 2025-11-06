@@ -44,6 +44,8 @@ I love coding, designing, and creating tools that bring people together — whet
 
 
 📂 Featured Projects
+
+
 🌐 ClassConnect
 
 A full-featured social hub for classmates — posts, polls, feedback, events, profiles, and more.
