@@ -51,6 +51,10 @@ A social platform for classmates with posts, feedback, polls, and more.
 🔗 Classconnect (https://github.com/ajilaries/Classconnect.git)
 
 ---
+TerraScope
+A weather casting app for accessing accurate weather informations and weather notifications to get more informed about the climate here
+Tech used ** Flutter,python,firbase,flask
+
 
 ### 📰 NoCap Press  
 A blog platform with user login, profile, and post management.  
