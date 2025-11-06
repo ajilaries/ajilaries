@@ -43,27 +43,57 @@ I love coding, designing, and creating tools that bring people together — whet
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 
 
-## 📂 Featured Projects
+📂 Featured Projects
+🌐 ClassConnect
 
-### 🧠 ClassConnect  
-A social platform for classmates with posts, feedback, polls, and more.  
-**Tech:** PHP, JavaScript, MySQL  
-🔗 Classconnect (https://github.com/ajilaries/Classconnect.git)
+A full-featured social hub for classmates — posts, polls, feedback, events, profiles, and more.
+Built to help students stay connected and improve communication.
 
----
-TerraScope
-A weather casting app for accessing accurate weather informations and weather notifications to get more informed about the climate here
-Tech used ** Flutter,python,firbase,flask
+Tech Used: PHP, JavaScript, HTML, CSS, MySQL
+🔗 Repo: https://github.com/ajilaries/Classconnect.git
 
+🌦️ TerraScope
 
-### 📰 NoCap Press  
-A blog platform with user login, profile, and post management.  
-**Tech:** PHP .js,css,html  
-🔗 NoCapPress (https://github.com/adithyantt/BLOG.git)
+A smart weather-casting and anomaly detection app.
+TerraScope fetches accurate real-time weather data, displays forecasts beautifully, and sends climate anomaly alerts — helping users stay prepared.
 
+Key Features:
+✅ Real-time weather API
+✅ Accurate geolocation
+✅ Auto-refresh weather dashboard
+✅ Weather-based background animations
+✅ Cloud-based anomaly detection (Node/Python backend)
+✅ Push notifications (Firebase Cloud Messaging)
+✅ Admin panel for verifying alerts (optional)
+
+Tech Used: Flutter, Firebase, Python, Flask, Cloud APIs
+🔗 Repo link (add your repo when ready)
+
+📰 NoCap Press
+
+A clean and simple blogging platform with login, profile, and post management.
+Perfect for writing, sharing, and expressing yourself.
+
+Tech Used: PHP, JavaScript, HTML, CSS
+🔗 Repo: https://github.com/adithyantt/BLOG.git
+
+🧩 What I'm Building Right Now
+
+✅ TerraScope cloud backend
+
+✅ Flutter interface upgrades
+
+✅ Better weather accuracy & notifications
+
+✅ MERN stack + Python learning
+
+✅ More ClassConnect automation features
+
+📬 Connect With Me
+
+If you want help, want to collab, or just wanna vibe about tech — hit me up 😄
 Connect Me
 
-## 📬 Let's Connect!
 
 💌 **Email:** @ajilaries20@gmail.com
 💼 **LinkedIn:** https://www.linkedin.com/in/ajil-saji-51270a31a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
