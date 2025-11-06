@@ -67,8 +67,7 @@ Key Features:
 ✅ Admin panel for verifying alerts (optional)
 
 Tech Used: Flutter, Firebase, Python, Flask, Cloud APIs
-🔗 Repo link (add your repo when ready)
-
+🔗 Repo link https://github.com/ajilaries/TerraScope-APP.git
 📰 NoCap Press
 
 A clean and simple blogging platform with login, profile, and post management.
