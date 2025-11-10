@@ -1,5 +1,5 @@
 👋 Hi, I'm Ajil  Saji
-🌍 Kerala, India  
+ Kerala, India  
 🎓 BCA Final Year Student | 💻 Full-Stack Developer  
 📱 Exploring Flutter, MERN, and all things creative
 
@@ -103,7 +103,6 @@ Tech Used: PHP, JavaScript, HTML, CSS
 ✅ More ClassConnect automation features
 
 
-📬 Connect With Me
 
 
 If you want help, want to collab, or just wanna vibe about tech — hit me up 😄
