@@ -4,7 +4,7 @@
 📱 Exploring Flutter, MERN, and all things creative
 
 I’m  a full-stack developer and BCA student passionate about building modern digital experiences.
-Learning, coding, and leveling up every day
+Learning, coding, and trying to leveling up every day 
 I love coding, designing, and creating tools that bring people together — whether it’s through apps, social platforms, or smart projects.
 
 ## 🚀 Tech Stack & Tools
