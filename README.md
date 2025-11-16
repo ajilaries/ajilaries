@@ -34,6 +34,10 @@ I love coding, designing, and creating tools that bring people together — whet
 ### 🗄️ Database  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Realtime%20DB](https://img.shields.io/badge/Realtime%20DB-FFCA28?style=flat&logo=firebase&logoColor=black)
+
 
 
 ### 🛠 Tools & Design  
