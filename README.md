@@ -49,7 +49,8 @@ Every day is a new chance to learn → build → level up 🚀🔥
 
 🛠 Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)  ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+
 
 
 
@@ -100,8 +101,7 @@ ClassConnect automation features
 
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ajilaries&show_icons=true&theme=radical" height="170" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajilaries&layout=compact&theme=radical" height="170" /> </p>
-🐍 Contribution Snake
-<p align="center"> <img src="https://github.com/ajilaries/ajilaries/blob/output/github-contribution-grid-snake.svg" /> </p>
+
 🤝 Connect
 
 📩 Email: ajilaries20@gmail.com
