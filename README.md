@@ -1,12 +1,12 @@
 
+👋 Hey, I'm Ajil Saji
+
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00C4FF&center=true&vCenter=true&width=500&lines=Hey+I'm+Ajil+Saji; /> </p> <p align="right"> <img src="https://komarev.com/ghpvc/?username=ajilaries&label=Profile%20Views&color=blue&style=flat" /> </p>
+
 
 📍 Kottayam, Kerala, India
 🎓 BCA Final Year Student
 💻 Full-Stack Developer | Mobile App Dev | Cloud & ML Explorer
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00C4FF&center=true&vCenter=true&width=500&lines=BCA+Final+Year+Student;Full+Stack+Developer;Flutter+%7C+MERN+%7C+Python;Building+Smart+Apps+%26+Cloud+Systems;Always+Learning+%26+Creating+🚀" /> </p> <p align="right"> <img src="https://komarev.com/ghpvc/?username=ajilaries&label=Profile%20Views&color=blue&style=flat" /> </p>
-
-👋 Hey, I'm Ajil Saji
-
 I craft modern digital experiences — apps, platforms, cloud systems — focused on clean UI + smart functionality.
 Every day is a new chance to learn → build → level up 🚀🔥
 
