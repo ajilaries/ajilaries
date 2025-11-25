@@ -1,7 +1,7 @@
 
 👋 Hey, I'm Ajil Saji
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00C4FF&center=true&vCenter=true&width=500&lines=Hey+I'm+Ajil+Saji; /> </p> <p align="right"> <img src="https://komarev.com/ghpvc/?username=ajilaries&label=Profile%20Views&color=blue&style=flat" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00C4FF&center=true&vCenter=true&width=500&lines=Hey+I'm+Ajil+Saji; /> </p> <p align="right">
 
 
 📍 Kottayam, Kerala, India
