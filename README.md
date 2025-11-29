@@ -1,7 +1,6 @@
 
 👋 Hey, I'm Ajil Saji
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00C4FF&center=true&vCenter=true&width=500&lines=Hey+I'm+Ajil+Saji; /> </p> <p align="right">
 
 
 📍 Kottayam, Kerala, India
@@ -104,7 +103,7 @@ MERN practice
 ClassConnect automation features
 
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ajilaries&show_icons=true&theme=radical" height="170" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajilaries&layout=compact&theme=radical" height="170" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajilaries&layout=compact&theme=radical" height="170" /> </p>
 
 🤝 Connect
 
