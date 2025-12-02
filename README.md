@@ -100,6 +100,8 @@ ML anomaly prediction
 
 MERN practice
 
+Android app development using kotlin 
+
 ClassConnect automation features
 
 📊 GitHub Stats
@@ -110,4 +112,7 @@ ClassConnect automation features
 📩 Email: ajilaries20@gmail.com
 
 📸 Instagram: @aju.aries
+
 💼 LinkedIn: https://www.linkedin.com/in/ajil-saji-51270a31a
+
+
