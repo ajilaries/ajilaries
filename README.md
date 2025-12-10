@@ -2,12 +2,11 @@
 👋 Hey, I'm Ajil Saji
 
 
-
 📍 Kottayam, Kerala, India
 🎓 BCA Final Year Student
 💻 Full-Stack Developer | Mobile App Dev | Cloud & ML Explorer
 I craft modern digital experiences — apps, platforms, cloud systems — focused on clean UI + smart functionality.
-Every day is a new chance to learn → build → level up 🚀🔥
+Every day is a new chance to learn → build → level up 
 
 🧠 Tech Stack
 💻 Languages
@@ -66,11 +65,6 @@ Every day is a new chance to learn → build → level up 🚀🔥
 
 Jetpack Compose (Google Developer Course)
 
-XML layouts (College Flutter course)
-
-MERN Stack
-
-Python ML & DL
 
 Cloud-based real-time systems
 
@@ -90,19 +84,7 @@ A weather + anomaly detection app with cloud-powered alerts.
 A clean blogging platform for sharing ideas.
 🔗 https://github.com/adithyantt/BLOG.git
 
-🔥 Current Work
 
-TerraScope cloud backend
-
-Flutter UI boosts
-
-ML anomaly prediction
-
-MERN practice
-
-Android app development using kotlin 
-
-ClassConnect automation features
 
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajilaries&layout=compact&theme=radical" height="170" /> </p>
