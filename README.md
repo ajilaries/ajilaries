@@ -20,7 +20,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/ajilaries/ajilaries/blob/output/github-contribution-grid-snake.svg" alt="github contribution snake" />
+  <img src="https://github.com/ajilaries/blob/output/github-contribution-grid-snake.svg" alt="github contribution snake" />
 </p>
 
 ---
