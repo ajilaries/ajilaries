@@ -17,6 +17,14 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/ajilaries/ajilariesblob/output/github-contribution-grid-snake.svg" alt="github contribution snake" />
+</p>
+
+---
+
 ## 🧠 Tech Stack
 
 ### 💻 Programming Languages
@@ -97,14 +105,14 @@ Always building. Always shipping.
 * Ship impactful projects that solve real problems
 * Keep learning new tools, frameworks, and ideas — nonstop
 
-
+---
 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajilaries\&show_icons=true\&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajilaries\&layout=compact\&theme=tokyonight)
 
-
+---
 
 ## 🧩 Dev Philosophy
 
@@ -113,6 +121,7 @@ Always building. Always shipping.
 * Clean code > clever code
 * UI matters. Logic matters more.
 
+---
 
 ## 🤝 Let’s Connect
 
@@ -120,4 +129,3 @@ If you’re into **tech, startups, collaboration, or wild ideas**, let’s talk 
 Always down to build something meaningful.
 
 ⭐ *Check out my repositories and drop a star if you vibe with my work* ✨
-
