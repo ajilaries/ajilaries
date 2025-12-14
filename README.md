@@ -119,9 +119,25 @@ Always building. Always shipping.
 
 🤝 Let’s Connect
 
-If you’re into tech, startups, collaboration, or wild ideas, let’s talk 🚀
+If you’re into **tech, startups, collaboration, or wild ideas**, let’s talk 🚀  
 Always down to build something meaningful.
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Let’s+build+cool+things+together;Open+to+collabs+and+ideas;Fueled+by+caffeine+☕+and+code" /> </p> <p align="center"> <a href="https://www.linkedin.com/in/ajil-saji-51270a31a/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg?color=0A66C2" width="36"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://discord.com/users/ajil.curls" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg?color=5865F2" width="36"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/aju.aries/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg?color=E4405F" width="36"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://t.me/yourusername" target="_blank">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Let’s+build+cool+things+together;Open+to+collabs+and+ideas;Fueled+by+caffeine+☕+and+code" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ajil-saji-51270a31a/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" height="32"/>
+  </a>
+  &nbsp;
+  <a href="https://discord.com/users/ajil.curls" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white&style=flat-square" height="32"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/aju.aries/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square" height="32"/>
+  </a>
+</p>
   
 ⭐ *Check out my repositories and drop a star if you vibe with my work* ✨
