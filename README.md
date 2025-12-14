@@ -97,14 +97,14 @@ Always building. Always shipping.
 * Ship impactful projects that solve real problems
 * Keep learning new tools, frameworks, and ideas — nonstop
 
----
+
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajilaries\&show_icons=true\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajilaries\&layout=compact\&theme=tokyonight)
 
----
+
 
 ## 🧩 Dev Philosophy
 
@@ -113,7 +113,6 @@ Always building. Always shipping.
 * Clean code > clever code
 * UI matters. Logic matters more.
 
----
 
 ## 🤝 Let’s Connect
 
