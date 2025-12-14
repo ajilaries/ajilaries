@@ -117,9 +117,11 @@ Always building. Always shipping.
 
 ---
 
-## 🤝 Let’s Connect
+🤝 Let’s Connect
 
-If you’re into **tech, startups, collaboration, or wild ideas**, let’s talk 🚀
+If you’re into tech, startups, collaboration, or wild ideas, let’s talk 🚀
 Always down to build something meaningful.
+
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Let’s+build+cool+things+together;Open+to+collabs+and+ideas;Fueled+by+caffeine+☕+and+code" /> </p> <p align="center"> <a href=https://www.linkedin.com/in/ajil-saji-51270a31a/> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://discord.com/channels/ajil.curls"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/> </a> <a href="https://www.instagram.com/aju.aries/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="https://t.me/yourusername"> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/> </a> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=80&section=footer"/> </p>
 
 ⭐ *Check out my repositories and drop a star if you vibe with my work* ✨
