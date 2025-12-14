@@ -67,6 +67,7 @@ A next‑gen Flutter app with cloud‑powered anomaly detection.
 * ML‑based anomaly alerts
 * Location‑aware notifications (FCM)
 * Designed for farmers, travelers & safety‑first users
+* https://github.com/ajilaries/TerraScope-APP.git
 
 ### 🎓 **ClassConnect** — Class‑Only Social Hub
 
@@ -75,6 +76,7 @@ A full‑stack web platform built for real classroom collaboration.
 * Secure authentication & role‑based access
 * Class feed, polls, feedback & file sharing
 * PHP + JS + MySQL backend
+* https://github.com/ajilaries/Classconnect.git
 
 ### 🛠️ **More Projects Coming Soon…**
 
