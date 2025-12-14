@@ -1,100 +1,124 @@
+<h1 align="center">Hey 👋, I'm <span style="color:#38bdf8">Ajil Saji</span></h1>
 
-👋 Hey, I'm Ajil Saji
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Mobile+App+Developer;Cloud+%26+ML+Explorer;Building+Ideas+Into+Reality" alt="Typing SVG" />
+</p>
 
+<p align="center">
+🚀 <b>Full‑Stack Developer</b> | 📱 <b>Mobile App Dev</b> | ☁️ <b>Cloud & ML Explorer</b><br/>
+📍 Kottayam, Kerala, India • 🎓 BCA Final Year Student
+</p>
 
-📍 Kottayam, Kerala, India
-🎓 BCA Final Year Student
-💻 Full-Stack Developer | Mobile App Dev | Cloud & ML Explorer
-I craft modern digital experiences — apps, platforms, cloud systems — focused on clean UI + smart functionality.
-Every day is a new chance to learn → build → level up 
+<p align="center"><i>Learn → Build → Level Up ⚡</i></p>
 
-🧠 Tech Stack
-💻 Languages
+---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+📚 → Build 🛠️ → Level Up ⚡ (every single day)
 
+---
 
+## 🧠 Tech Stack
 
+### 💻 Programming Languages
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat\&logo=dart\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat\&logo=cplusplus\&logoColor=white)
 
+---
 
+### 🌐 Web Development
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat\&logo=php\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat\&logo=fastapi\&logoColor=white)
 
+---
 
+### 📱 Mobile Development
 
-🌐 Web
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat\&logo=flutter\&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat\&logo=kotlin\&logoColor=white)
+![XML](https://img.shields.io/badge/XML-E34F26?style=flat\&logo=xml\&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+---
 
+### 🗄️ Databases & Backend Services
 
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat\&logo=mongodb\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat\&logo=firebase\&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat\&logo=firebase\&logoColor=black)
+![Realtime DB](https://img.shields.io/badge/Firebase%20Realtime%20DB-FFCA28?style=flat\&logo=firebase\&logoColor=black)
 
+---
 
+## 🚀 Featured Projects
 
+### 🌦️ **Terrascope** — Smart Weather & Safety Assistant
 
-📱 Mobile
+A next‑gen Flutter app with cloud‑powered anomaly detection.
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)  ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)![XML](https://img.shields.io/badge/XML-E34F26?style=flat&logo=xml&logoColor=white)
+* Real‑time weather + AQI
+* ML‑based anomaly alerts
+* Location‑aware notifications (FCM)
+* Designed for farmers, travelers & safety‑first users
 
+### 🎓 **ClassConnect** — Class‑Only Social Hub
 
+A full‑stack web platform built for real classroom collaboration.
 
+* Secure authentication & role‑based access
+* Class feed, polls, feedback & file sharing
+* PHP + JS + MySQL backend
 
-🗄 Databases
+### 🛠️ **More Projects Coming Soon…**
 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat&logo=firebase&logoColor=black) ![Realtime%20DB](https://img.shields.io/badge/Realtime%20DB-FFCA28?style=flat&logo=firebase&logoColor=black)
+Always building. Always shipping.
 
+---
 
+## 🔥 What I’m Into Right Now
 
+* Building **full‑stack & mobile apps** with real‑world impact
+* Exploring **cloud architecture & scalable backends** ☁️
+* Applying **ML & data‑driven logic** to smart systems 🤖
+* Obsessing over **clean UI/UX + performance**
 
+---
 
+## 📈 Goals
 
+* Become industry‑ready for top tech roles 💼
+* Ship impactful projects that solve real problems
+* Keep learning new tools, frameworks, and ideas — nonstop
 
+---
 
-🛠 Tools
+## 📊 GitHub Stats
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)  ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&theme=tokyonight)
 
+---
 
+## 🧩 Dev Philosophy
 
+* **Build things that matter**
+* Keep learning, even when it’s uncomfortable
+* Clean code > clever code
+* UI matters. Logic matters more.
 
+---
 
+## 🤝 Let’s Connect
 
+If you’re into **tech, startups, collaboration, or wild ideas**, let’s talk 🚀
+Always down to build something meaningful.
 
-
-
-📚 What I'm Learning
-
-Jetpack Compose (Google Developer Course)
-
-
-Cloud-based real-time systems
-
-📂 Featured Projects
-🌐 ClassConnect
-
-A social hub for classmates — posts, polls, comments, events, feedback & more.
-🔗 https://github.com/ajilaries/Classconnect.git
-
-🌦 TerraScope
-
-A weather + anomaly detection app with cloud-powered alerts.
-🔗 https://github.com/ajilaries/TerraScope-APP.git
-
-📰 NoCap Press
-
-A clean blogging platform for sharing ideas.
-🔗 https://github.com/adithyantt/BLOG.git
-
-
-
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajilaries&layout=compact&theme=radical" height="170" /> </p>
-
-🤝 Connect
-
-📩 Email: ajilaries20@gmail.com
-
-📸 Instagram: @aju.aries
-
-💼 LinkedIn: https://www.linkedin.com/in/ajil-saji-51270a31a
-
+⭐ *Check out my repositories and drop a star if you vibe with my work* ✨
 
