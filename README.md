@@ -78,6 +78,15 @@ A full‑stack web platform built for real classroom collaboration.
 * PHP + JS + MySQL backend
 * https://github.com/ajilaries/Classconnect.git
 
+###   **Sentiment-Analyzer** -Analyze real sentiments
+
+
+*This is a Flask-based web application (v2.0) for real-time sentiment analysis of user-inputted text.
+*It leverages a pre-trained Hugging Face machine learning model to classify sentiments as Positive, Negative, or Neutral, featuring a clean and responsive interface. 
+*The app is deployed on Render and uses technologies like Flask, Transformers, PyTorch, and HTML/CSS for a seamless user experience.
+* https://sentiment-analyzer-h6t1.onrender.com
+
+
 ### 🛠️ **More Projects Coming Soon…**
 
 Always building. Always shipping.
