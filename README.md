@@ -21,39 +21,40 @@
 
 ### 💻 Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat\&logo=dart\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat\&logo=cplusplus\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ---
 
 ### 🌐 Web Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat\&logo=php\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat\&logo=fastapi\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
 ---
 
 ### 📱 Mobile Development
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat\&logo=flutter\&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat\&logo=kotlin\&logoColor=white)
-![XML](https://img.shields.io/badge/XML-E34F26?style=flat\&logo=xml\&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+![XML](https://img.shields.io/badge/XML-E34F26?style=flat&logo=xml&logoColor=white)
 
 ---
 
 ### 🗄️ Databases & Backend Services
 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat\&logo=mongodb\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat\&logo=firebase\&logoColor=black)
-![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat\&logo=firebase\&logoColor=black)
-![Realtime DB](https://img.shields.io/badge/Firebase%20Realtime%20DB-FFCA28?style=flat\&logo=firebase\&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Realtime DB](https://img.shields.io/badge/Firebase%20Realtime%20DB-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ---
 
@@ -78,14 +79,14 @@ A full‑stack web platform built for real classroom collaboration.
 * PHP + JS + MySQL backend
 * https://github.com/ajilaries/Classconnect.git
 
-###   **Sentiment-Analyzer** -Analyze real sentiments
+### 📝 **Sentiment-Analyzer** — Real-Time Sentiment Detection
 
+A Flask-based web app (v2.0) that classifies text as Positive, Negative, or Neutral using Hugging Face ML models.
 
-*This is a Flask-based web application (v2.0) for real-time sentiment analysis of user-inputted text.
-*It leverages a pre-trained Hugging Face machine learning model to classify sentiments as Positive, Negative, or Neutral, featuring a clean and responsive interface. 
-*The app is deployed on Render and uses technologies like Flask, Transformers, PyTorch, and HTML/CSS for a seamless user experience.
+* Clean, responsive interface for easy text input
+* Powered by Transformers & PyTorch
+* Deployed on Render for instant access
 * https://sentiment-analyzer-h6t1.onrender.com
-
 
 ### 🛠️ **More Projects Coming Soon…**
 
@@ -112,8 +113,8 @@ Always building. Always shipping.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajilaries\&show_icons=true\&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajilaries\&layout=compact\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajilaries&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajilaries&layout=compact&theme=tokyonight)
 
 ---
 
