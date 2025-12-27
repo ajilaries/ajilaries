@@ -119,6 +119,16 @@ Always building. Always shipping.
 
 ---
 
+## 🚀 Startup
+
+### VoidByte Innovations
+
+A startup focused on development and learning.
+
+Website: https://voidbyte-innovations.github.io/VoidByte/
+
+---
+
 ## 🔥 What I’m Into Right Now
 
 - Building **full‑stack & mobile apps** with real‑world impact
