@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm <span style="color:#38bdf8">Ajil Saji</span></h1>
+<h1 align="center">Hey Hello , I'm <span style="color:#38bdf8">Ajil Saji</span></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Mobile+App+Developer;Cloud+%26+ML+Explorer;Building+Ideas+Into+Reality" alt="Typing SVG" />
