@@ -173,7 +173,7 @@ Always down to build something meaningful.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ajil-saji-51270a31a/" target="_blank">
+  <a href="https://www.linkedin.com/in/ajil-saji" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" height="32"/>
   </a>
   &nbsp;
