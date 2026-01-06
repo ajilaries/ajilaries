@@ -13,7 +13,7 @@
 
 ---
 
-📚 → Build 🛠️ → Level Up ⚡ (every single day)
+📚 → Build 🛠️ → Levelling Up ⚡ (every single day)
 
 ---
 
