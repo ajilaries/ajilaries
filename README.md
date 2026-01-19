@@ -1,7 +1,16 @@
 <h1 align="center">Hey Hello , I'm <span style="color:#38bdf8">Ajil Saji</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Mobile+App+Developer;Cloud+%26+ML+Explorer;Building+Ideas+Into+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Mobile+App+Developer;Cloud+%26+ML+Explorer" />
+</p>
+
+<!-- New animated top row (inserted below the main heading) -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ajilaries&theme=tokyonight&no-frame=true" alt="Trophies" />
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajilaries&theme=tokyonight" alt="Streak stats" />
+  &nbsp;
+  <img src="https://visitor-badge.glitch.me/badge?page_id=ajilaries.ajilaries" alt="Visitor Badge" />
 </p>
 
 <p align="center">
@@ -151,6 +160,11 @@ Website: https://voidbyte-innovations.github.io/VoidByte/
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajilaries&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajilaries&layout=compact&theme=tokyonight)
 
+<!-- Contribution activity graph (placed after GitHub Stats) -->
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=ajilaries&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
 ---
 
 ## 🧩 Dev Philosophy
@@ -169,7 +183,7 @@ If you’re into **tech, startups, collaboration, or wild ideas**, let’s talk 
 Always down to build something meaningful.
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Let’s+build+cool+things+together;Open+to+collabs+and+ideas;Fueled+by+caffeine+☕+and+code" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Let’s+build+cool+things+together;Open+to+collabs+and+ideas;Fueled+by+coffee+and+curiosity" />
 </p>
 
 <p align="center">
@@ -186,4 +200,9 @@ Always down to build something meaningful.
   </a>
 </p>
   
+<!-- Animated "made with" badge (footer area) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red?style=flat-square" alt="Made with love" />
+</p>
+
 ⭐ *Check out my repositories and drop a star if you vibe with my work* ✨
