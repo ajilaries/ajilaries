@@ -180,7 +180,6 @@ Website: https://voidbyte-innovations.github.io/VoidByte/
  Let’s Connect
 
 If you’re into **tech, startups, collaboration, or wild ideas**, let’s talk 🚀 
-Always down to build something meaningful.
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Let’s+build+cool+things+together;Open+to+collabs+and+ideas;Fueled+by+coffee+and+curiosity" />
