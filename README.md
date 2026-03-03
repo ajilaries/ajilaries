@@ -204,4 +204,3 @@ If you’re into **tech, startups, collaboration, or wild ideas**, let’s talk 
   <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red?style=flat-square" alt="Made with love" />
 </p>
 
-⭐ *Check out my repositories and drop a star if you vibe with my work* ✨
