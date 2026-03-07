@@ -35,7 +35,7 @@
 ### Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html5,css3,js,nodejs,php," />
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php," />
 </p>
 
 ---
