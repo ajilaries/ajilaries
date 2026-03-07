@@ -117,9 +117,9 @@ Flutter • Dart • REST APIs
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ajilaries&show_icons=true&theme=tokyonight" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ajilaries&theme=tokyonight" />
 
 </p>
 
@@ -129,7 +129,7 @@ Flutter • Dart • REST APIs
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajilaries&theme=tokyo-night"/>
 
 </p>
 
@@ -139,7 +139,7 @@ Flutter • Dart • REST APIs
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ajilaries&theme=tokyonight&no-frame=true&margin-w=10"/>
 
 </p>
 
@@ -149,7 +149,7 @@ Flutter • Dart • REST APIs
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blue&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=ajilaries&label=Profile+Views&color=blue&style=for-the-badge" />
 
 </p>
 
