@@ -1,22 +1,37 @@
-# README
+# Project Title
 
-## Flutter Learning Progress
+![Project Badge](https://example.com/badge.png)
 
-- Completed online course on Flutter development.
-- Built several small projects using Flutter.
+## Tech Stack
+
+- Flutter
+- Dart
+- Firebase
+- REST APIs
 
 ## Featured Projects
 
-### Project 1: Awesome App
-- Description of Awesome App.
-- Badges: ![badge1](link_to_badge1.png) ![badge2](link_to_badge2.png)
+### Terrascope
+A project description...  
+### ClassConnect
+A project description...  
+### Sentiment-Analyzer
+A project description...
 
-### Project 2: Flutter Chat
-- Description of Flutter Chat.
-- Badges: ![badge3](link_to_badge3.png)
+## 📱 Flutter Learning & Projects
 
-### Project 3: Animated Splash Screen
-- Description of Animated Splash Screen.
-- Badges: ![badge4](link_to_badge4.png) 
+### Flutter Learning Journey
+I started learning Flutter in early 2026 and have since built several projects to solidify my skills. The journey has been both challenging and rewarding, filled with numerous learning experiences.
 
-Enjoy Flutter programming!
+### Flutter Projects Table
+| Project Name       | Description               | Link         |
+|--------------------|---------------------------|--------------|
+| Basic Calculator    | A simple calculator app   | [View](https://github.com/ajilaries/basic-calculator) |
+| Recipe App         | An app to browse recipes   | [View](https://github.com/ajilaries/recipe-app) |
+| Task Manager       | A task management app     | [View](https://github.com/ajilaries/task-manager) |
+
+## What I'm Into Right Now
+Currently, I'm deeply immersed in Flutter development and enhancing my understanding of Dart. The possibilities seem endless!  
+
+## Conclusion
+Feel free to connect or collaborate on Flutter projects!
