@@ -1,36 +1,22 @@
 # README
 
-![My Badges](https://example.com/path/to/badges)
+## Flutter Learning Progress
 
-## What I'm Into Right Now
+- Completed online course on Flutter development.
+- Built several small projects using Flutter.
 
-- Learning Flutter!
+## Featured Projects
 
-## Tech Stack
+### Project 1: Awesome App
+- Description of Awesome App.
+- Badges: ![badge1](link_to_badge1.png) ![badge2](link_to_badge2.png)
 
-- Flutter (prominently featured)
-- Dart
-- JavaScript
-- HTML/CSS
-- Node.js
+### Project 2: Flutter Chat
+- Description of Flutter Chat.
+- Badges: ![badge3](link_to_badge3.png)
 
-# Learning & Growth
+### Project 3: Animated Splash Screen
+- Description of Animated Splash Screen.
+- Badges: ![badge4](link_to_badge4.png) 
 
-### Flutter Learning Journey
-- Completed Flutter courses.
-- Worked on several mini-projects using Flutter.
-
-### Completed Flutter Projects
-
-- Project 1
-- Project 2
-
-### Ongoing Flutter Development
-
-- App X (description)
-- App Y (description)
-
-## Other Sections
-
-- Existing content...
-
+Enjoy Flutter programming!
