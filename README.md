@@ -1,34 +1,30 @@
-<!-- Animated Intro -->
+<!-- HEADER -->
 
 <h1 align="center">Hi 👋, I'm Aju</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Flutter+Developer;Full+Stack+Developer+in+Progress;Building+Real+World+Apps;Always+Learning+New+Tech" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=Flutter+Developer;Full+Stack+Developer+in+Progress;Building+Real+World+Applications;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
-💻 Student Developer | 📱 Flutter Enthusiast | 🌐 Future Full Stack Engineer
+💻 Student Developer • 📱 Flutter Enthusiast • 🌐 Future Full Stack Engineer
 </p>
 
 ---
 
 # 🌟 About Me
 
-I’m a student developer passionate about building **real-world applications** while learning modern technologies.
-
-I enjoy working on **mobile apps, full-stack systems, and cloud-connected platforms** that solve real problems.
-
-Currently focusing on:
-- Flutter Mobile Development
-- Backend Development
-- API Systems
-- Cloud Based Applications
+- 🎓 Student passionate about **software development**
+- 📱 Building **mobile apps using Flutter**
+- 🌐 Learning **Full Stack Development**
+- ⚡ Love creating **real-world applications**
+- 🚀 Interested in **cloud systems, APIs, and scalable platforms**
 
 ---
 
-# 🚀 Tech Stack
+# 🧰 Tech Stack
 
-## 👨‍💻 Programming Languages
+### Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,js,dart,python,php,c,cpp" />
@@ -36,7 +32,7 @@ Currently focusing on:
 
 ---
 
-## 🌐 Web Development
+### Web Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php" />
@@ -44,7 +40,7 @@ Currently focusing on:
 
 ---
 
-## 📱 Mobile Development
+### Mobile Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=flutter,dart" />
@@ -52,7 +48,7 @@ Currently focusing on:
 
 ---
 
-## 🗄 Databases
+### Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
@@ -60,15 +56,7 @@ Currently focusing on:
 
 ---
 
-## ☁️ Cloud & APIs
-
-<p>
-<img src="https://skillicons.dev/icons?i=firebase" />
-</p>
-
----
-
-## 🛠 Tools
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma" />
@@ -76,50 +64,51 @@ Currently focusing on:
 
 ---
 
-# 📂 Featured Projects
+# 🚀 Featured Projects
 
-## 🌦 Terrascope
-Environmental monitoring and anomaly detection system.
+### 🌦 Terrascope
+Environmental monitoring & anomaly detection system.
 
 Features
-- Real-time weather data
+- Real-time weather monitoring
 - Location-based alerts
 - Weather anomaly detection
-- Historical weather analysis
-- Cloud notification system
+- Historical weather tracking
+- Cloud notifications
 
-Tech
+Tech  
 Flutter • APIs • Firebase • Cloud Backend
 
 ---
 
-## 🎓 ClassConnect
-A private social platform built for a college class.
+### 🎓 ClassConnect
+Private social network for a college class.
 
 Features
 - Authentication system
 - Class feed posts
-- Comments system
+- Comment system
 - Anonymous feedback
-- Polls and event calendar
-- File sharing
+- Polls
+- Event calendar
+- File uploads
 - Role-based permissions
 
-Tech
+Tech  
 HTML • CSS • JavaScript • PHP • MySQL
 
 ---
 
-## 🎬 CineFlix
-Movie browsing mobile application built with Flutter.
+### 🎬 CineFlix
+Movie browsing Flutter application.
 
 Features
 - Featured movie banner
-- Category movie rows
-- Smooth scrolling UI
-- Movie API integration
+- Scrollable movie rows
+- Category browsing
+- API movie data
 
-Tech
+Tech  
 Flutter • Dart • REST APIs
 
 ---
@@ -128,9 +117,9 @@ Flutter • Dart • REST APIs
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="170"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 
 </p>
 
@@ -146,11 +135,21 @@ Flutter • Dart • REST APIs
 
 ---
 
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=10"/>
+
+</p>
+
+---
+
 # 👀 Profile Visitors
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Visitors&color=blue&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blue&style=for-the-badge" />
 
 </p>
 
@@ -161,23 +160,21 @@ Flutter • Dart • REST APIs
 - Flutter Advanced UI
 - Node.js
 - MERN Stack
-- API architecture
-- Cloud backend systems
-- System design
+- API Architecture
+- Cloud Backend Systems
+- System Design
 
 ---
 
-# 🎯 Future Goals
+# 🎯 Goals
 
 ✔ Become a **Full Stack Developer**  
-✔ Build **production level apps**  
+✔ Build **production-ready mobile apps**  
 ✔ Contribute to **open source**  
 ✔ Work in **top tech companies**
 
 ---
 
-# ⚡ Fun Facts
+# ⚡ Fun Fact
 
-💻 I love building apps and experimenting with new tech  
-📱 Currently obsessed with Flutter development  
-🚀 Learning by building real projects
+I believe **building real projects is the fastest way to learn programming.**
