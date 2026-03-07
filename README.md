@@ -35,7 +35,7 @@
 ### Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php" />
+<img src="https://skillicons.dev/icons?i=html5,css3,js,nodejs,php," />
 </p>
 
 ---
@@ -43,7 +43,7 @@
 ### Mobile Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin" />
 </p>
 
 ---
@@ -51,7 +51,7 @@
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+<img src="https://skillicons.dev/icons?i=mysql,firebase,firestore,sql" />
 </p>
 
 ---
