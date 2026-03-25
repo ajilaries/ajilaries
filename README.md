@@ -113,18 +113,6 @@ Flutter • Dart • REST APIs
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ajilaries&show_icons=true&theme=tokyonight" />
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ajilaries&theme=tokyonight" />
-
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
@@ -140,16 +128,6 @@ Flutter • Dart • REST APIs
 <p align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=ajilaries&theme=tokyonight&no-frame=true&margin-w=10"/>
-
-</p>
-
----
-
-# 👀 Profile Visitors
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ajilaries&label=Profile+Views&color=blue&style=for-the-badge" />
 
 </p>
 
