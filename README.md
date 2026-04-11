@@ -2,26 +2,67 @@
 
 <h1 align="center">Hi 👋, I'm Aju</h1>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=Flutter+Developer;Full+Stack+Developer+in+Progress;Building+Real+World+Applications;Always+Learning+New+Technologies" />
-</p>
+💻 Full-Stack Developer (MERN • Java • Flutter • Cloud)
 
-<p align="center">
-💻 Student Developer • 📱 Flutter Enthusiast • 🌐 Future Full Stack Engineer
-</p>
+I build real-world applications with a focus on clean UI, performance, and meaningful impact
 
----
+🚀 About Me
 
-# 🌟 About Me
+I’m a self-taught developer passionate about building modern applications — from mobile apps to full-stack systems.
 
-- 🎓 Student passionate about **software development**
-- 📱 Building **mobile apps using Flutter**
-- 🌐 Learning **Full Stack Development**
-- ⚡ Love creating **real-world applications**
-- 🚀 Interested in **cloud systems, APIs, and scalable platforms**
+I enjoy turning ideas into real products and constantly explore new technologies, especially in AI, cloud systems, and scalable backend development.
 
----
+Currently working on improving my skills to become industry-ready while building impactful projects.
 
+
+A real-time environmental monitoring app with anomaly detection, weather insights & alerts
+Tech: Flutter • APIs • Cloud Integration
+Status: Active Development 🚀
+
+⚙️ Terrascope Backend
+
+Backend system handling real-time weather data, anomaly detection & notifications
+Tech: Node.js / Python • APIs • Database
+Status: In Development
+
+💖 VibeMatch
+
+A smart matching platform with modern UI and real-time interactions
+Tech: Full-Stack (Web + Backend)
+Status: Active
+
+🔗 VibeMatch Backend
+
+Handles authentication, matching logic & API services
+Tech: Node.js • Database • REST APIs
+
+🌐 ClassConnect
+
+A private social platform for students with posts, comments, file sharing, feedback & notifications
+Tech: PHP • MySQL • JavaScript
+Status: Active Development
+
+📱 Workly
+
+A productivity-based mobile/web application focused on task and workflow management
+Status: In Progress
+
+🧠 Sentiment Analyzer
+
+Analyzes text sentiment using AI techniques
+Tech: Python • NLP
+Status: Completed
+
+🎯 FocusFlow (Java App)
+
+A productivity app built using Java focusing on task flow & efficiency
+Tech: Java
+Status: Completed
+
+📘 Flutter Learning Apps
+
+Collection of small apps built while learning Flutter
+Purpose: Skill building & experimentation
 # 🧰 Tech Stack
 
 ### Programming Languages
@@ -64,95 +105,7 @@
 
 ---
 
-# 🚀 Featured Projects
-
-### 🌦 Terrascope
-Environmental monitoring & anomaly detection system.
-
-Features
-- Real-time weather monitoring
-- Location-based alerts
-- Weather anomaly detection
-- Historical weather tracking
-- Cloud notifications
-
-Tech  
-Flutter • APIs • Firebase • Cloud Backend
-
----
-
-### 🎓 ClassConnect
-Private social network for a college class.
-
-Features
-- Authentication system
-- Class feed posts
-- Comment system
-- Anonymous feedback
-- Polls
-- Event calendar
-- File uploads
-- Role-based permissions
-
-Tech  
-HTML • CSS • JavaScript • PHP • MySQL
-
----
-
-### 🎬 CineFlix
-Movie browsing Flutter application.
-
-Features
-- Featured movie banner
-- Scrollable movie rows
-- Category browsing
-- API movie data
-
-Tech  
-Flutter • Dart • REST APIs
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajilaries&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ajilaries&theme=tokyonight&no-frame=true&margin-w=10"/>
-
-</p>
-
----
-
-# 📚 Currently Learning
-
-- Flutter Advanced UI
-- Node.js
-- MERN Stack
-- API Architecture
-- Cloud Backend Systems
-- System Design
-
----
-
-# 🎯 Goals
-
-✔ Become a **Full Stack Developer**  
-✔ Build **production-ready mobile apps**  
-✔ Contribute to **open source**  
-✔ Work in **top tech companies**
-
----
-
-# ⚡ Fun Fact
-
-I believe **building real projects is the fastest way to learn programming.**
+🌍 Let's Connect
+💼 LinkedIn
+📧 Email
+💬 Discord
