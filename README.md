@@ -24,7 +24,7 @@ Currently working on improving my skills to become **industry-ready** while buil
 
 ## 🔥 Featured Projects
 
-### 🌦️ [Terrascope App](https://github.com/YOUR_USERNAME/terrascope-app)
+### 🌦️ [Terrascope App](https://github.com/ajilaries/TerraScope-APP.git)
 
 A real-time environmental monitoring app with anomaly detection, weather insights & alerts
 **Tech:** Flutter • APIs • Cloud Integration
@@ -32,7 +32,7 @@ A real-time environmental monitoring app with anomaly detection, weather insight
 
 ---
 
-### ⚙️ [Terrascope Backend](https://github.com/YOUR_USERNAME/terrascope-backend)
+### ⚙️ [Terrascope Backend](https://github.com/ajilaries/terrascope-backend.git)
 
 Backend system handling real-time weather data, anomaly detection & notifications
 **Tech:** Node.js / Python • APIs • Database
@@ -40,7 +40,7 @@ Backend system handling real-time weather data, anomaly detection & notification
 
 ---
 
-### 💖 [VibeMatch](https://github.com/YOUR_USERNAME/vibematch)
+### 💖 [VibeMatch](https://github.com/ajilaries/VibeMatch.git)
 
 A smart matching platform with modern UI and real-time interactions
 **Tech:** Full-Stack (Web + Backend)
@@ -48,14 +48,14 @@ A smart matching platform with modern UI and real-time interactions
 
 ---
 
-### 🔗 [VibeMatch Backend](https://github.com/YOUR_USERNAME/vibematch-backend)
+### 🔗 [VibeMatch Backend](https://github.com/ajilaries/VibeMatch_backend.git)
 
 Handles authentication, matching logic & API services
 **Tech:** Node.js • Database • REST APIs
 
 ---
 
-### 🌐 [ClassConnect](https://github.com/YOUR_USERNAME/classconnect)
+### 🌐 [ClassConnect](https://github.com/ajilaries/Classconnect.git)
 
 A private social platform for students with posts, comments, file sharing, feedback & notifications
 **Tech:** PHP • MySQL • JavaScript
@@ -63,14 +63,14 @@ A private social platform for students with posts, comments, file sharing, feedb
 
 ---
 
-### 📱 [Workly](https://github.com/YOUR_USERNAME/workly)
+### 📱 [Workly](https://github.com/ajilaries/Workly.git)
 
 A productivity-based mobile/web application focused on task and workflow management
 **Status:** In Progress
 
 ---
 
-### 🧠 [Sentiment Analyzer](https://github.com/YOUR_USERNAME/sentiment-analyzer)
+### 🧠 [Sentiment Analyzer](https://github.com/ajilaries/sentiment-analyzer.git)
 
 Analyzes text sentiment using AI techniques
 **Tech:** Python • NLP
@@ -78,7 +78,7 @@ Analyzes text sentiment using AI techniques
 
 ---
 
-### 🎯 [FocusFlow](https://github.com/YOUR_USERNAME/focusflow)
+### 🎯 [FocusFlow](https://github.com/ajilaries/FocusFlow.git)
 
 A productivity app built using Java focusing on task flow & efficiency
 **Tech:** Java
@@ -86,7 +86,7 @@ A productivity app built using Java focusing on task flow & efficiency
 
 ---
 
-### 📘 [Flutter Learning Apps](https://github.com/YOUR_USERNAME/flutter-projects)
+### 📘 [Flutter Learning Apps](https://github.com/ajilaries/Mobile-Application-Flutter.git)
 
 Collection of small apps built while learning Flutter
 **Purpose:** Skill building & experimentation
@@ -147,19 +147,18 @@ Collection of small apps built while learning Flutter
 
 ## 🌍 Let's Connect
 
-* 💼 LinkedIn: https://linkedin.com/in/YOUR_PROFILE
-* 📧 Email: [your@email.com](mailto:your@email.com)
-* 💬 Discord: yourusername
+* 💼 LinkedIn: https://www.linkedin.com/in/ajil-saji
+* 📧 Instagram: https://www.instagram.com/aju.aries/
+* 💬 Discord: https://discord.com/channels/ajil.curls
+* Portfolio: https://portfolio-web-pi-one.vercel.app/
 
 ---
 
 ## ⚡ Fun Facts
 
-* 🎮 Love RPG & strategy games
-* 📺 Anime fan
 * ⚡ I learn by building — not just watching tutorials
 * ☕ Coffee = productivity boost
 
 ---
 
-> "Code is like humor. When you have to explain it, it’s bad."
+> "Fueled by caffeine and curiosity, I flirt with ideas, commit consistently, and turn late nights into clean code. "
