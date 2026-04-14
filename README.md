@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ajil</h1>
 
 <p align="center">
-💻 Full-Stack Developer (MERN • Java • Flutter • Cloud)
+💻 Full-Stack Developer (MERN • Java • Flutter )
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@ Currently working on improving my skills to become **industry-ready** while buil
 
 A real-time environmental monitoring app with anomaly detection, weather insights & alerts
 **Tech:** Flutter • APIs • Cloud Integration
-**Status:** Active Development 🚀
+**Status:** Active Development 
 
 ---
 
