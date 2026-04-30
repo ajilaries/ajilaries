@@ -33,6 +33,7 @@ A real-time environmental monitoring app with anomaly detection, weather insight
 
 ---
 
+
 ### [Terrascope Backend](https://github.com/ajilaries/terrascope-backend.git)
 
 Backend system handling real-time weather data, anomaly detection & notifications
@@ -86,6 +87,21 @@ A productivity app built using Java focusing on task flow & efficiency
 **Status:** Completed
 
 ---
+### [GO-Calculator](https://github.com/ajilaries/Go-Calculator.git)
+
+A simple and modular calculator built using Go, with both a CLI version and a desktop UI powered by Wails.
+**Tech:** GOLang
+**Status:** Live
+
+---
+### [GO-TASK-API](https://github.com/ajilaries/GO-TASK-API.git)
+
+GO-TASK-API For Real Task Manager which performs basic operations. This is purely for learning the concepts inside the GoLang
+**Tech:** GOLang, HTML, CSS,JS
+**Status:** In Development
+
+---
+
 
 ###  [Flutter Learning Apps](https://github.com/ajilaries/Mobile-Application-Flutter.git)
 
