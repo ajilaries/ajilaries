@@ -4,7 +4,8 @@
 <h1 align="center">Hi, I'm Ajil</h1>
 
 <p align="center">
- Full-Stack Developer (MERN • Flutter )
+ Full-Stack Mobile Application Developer(Flutter, Kotlin)
+ Exploring Python Backend Development
 </p>
 
 <p align="center">
@@ -109,6 +110,7 @@ Collection of small apps built while learning Flutter
 **Purpose:** Skill building & experimentation
 
 ---
+Click [ARIES](https://github.com/ajilaries?tab=repositories) for more projects
 
 #  Tech Stack
 
