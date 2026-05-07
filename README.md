@@ -117,7 +117,7 @@ Click [ARIES](https://github.com/ajilaries?tab=repositories) for more projects
 ###  Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,dart,python,php,c,cpp" />
+<img src="https://skillicons.dev/icons?i=java,dart,python,php,c,cpp" />
 </p>
 
 ---
@@ -125,7 +125,7 @@ Click [ARIES](https://github.com/ajilaries?tab=repositories) for more projects
 ###  Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php" />
 </p>
 
 ---
@@ -141,7 +141,7 @@ Click [ARIES](https://github.com/ajilaries?tab=repositories) for more projects
 ###  Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,firebase,sqlite" />
+<img src="https://skillicons.dev/icons?i=mysql,firebase,sqlite,postgres" />
 </p>
 
 ---
@@ -166,10 +166,10 @@ Click [ARIES](https://github.com/ajilaries?tab=repositories) for more projects
 
 ##  Let's Connect
 
-*  LinkedIn: https://www.linkedin.com/in/ajil-saji
-*  Instagram: https://www.instagram.com/aju.aries/
-*  Discord: https://discord.com/channels/ajil.curls
-* Portfolio: https://portfolio-web-pi-one.vercel.app/
+*  [LinkedIn](https://www.linkedin.com/in/ajil-saji) 
+*  [Instagram](https://www.instagram.com/aju.aries/) 
+*  [Discord](https://discord.com/channels/ajil.curls) 
+*  [Portfolio ](https://portfolio-web-pi-one.vercel.app/)
 
 ---
 
