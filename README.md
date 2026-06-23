@@ -123,7 +123,7 @@ Click [ARIES](https://github.com/ajilaries?tab=repositories) for more projects
 
 ---
 
-###  Web Development
+###  Web Development 
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,php" />
@@ -139,7 +139,7 @@ Click [ARIES](https://github.com/ajilaries?tab=repositories) for more projects
 
 ---
 
-###  Databases
+###  Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,firebase,sqlite,postgres" />
@@ -156,7 +156,7 @@ Click [ARIES](https://github.com/ajilaries?tab=repositories) for more projects
 ---
 
 
-##  Let's Connect
+##  Let's  do Connect
 
 *  [LinkedIn](https://www.linkedin.com/in/ajil-saji) 
 *  [Instagram](https://www.instagram.com/aju.aries/) 
