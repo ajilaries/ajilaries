@@ -14,6 +14,7 @@ I build real-world applications with a focus on <b>clean UI, performance, and me
 
 ---
 
+
 ##  About Me
 
 I’m a self-taught developer passionate about building modern applications — from mobile apps to full-stack systems.
