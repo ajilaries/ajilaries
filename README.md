@@ -63,7 +63,7 @@ Handles authentication, matching logic & API services
 
 A private social platform for students with posts, comments, file sharing, feedback & notifications
 **Tech:** PHP • MySQL • JavaScript
-**Status:** Active Development
+**Status:** Live
 
 ---
 
